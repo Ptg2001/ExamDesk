@@ -25,6 +25,8 @@ This web application, built using JSP, Servlets, and MySQL, serves as a comprehe
 This project presents a full-stack online exam platform featuring an admin portal and a student exam-taking system. Leveraging Java, JSP, Servlets, and MySQL, it provides a robust solution for institutes and coaches to streamline the online examination process. Feel free to explore the codebase and contribute to its enhancement!
 
 ## Images
+### Home
+![image](https://github.com/Ptg2001/ExamDesk/assets/83298817/0e3a5b94-220f-4fcb-8b26-bf0d96e0e85d)
 ### Admin
 <kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
