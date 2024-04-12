@@ -31,13 +31,13 @@ This project presents a full-stack online exam platform featuring an admin porta
 <kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p float="left">
-    <img src="https://github.com/navadkarsujit/Online-Exam-System-Java/assets/144350681/33400500-a0f3-4904-a5b9-760ee2287ad3" width="49%"/> 
-    <img src="https://github.com/navadkarsujit/Online-Exam-System-Java/assets/144350681/d7d00517-09fe-49a0-b9ab-477455c92899" width="49%" />
+    <img src="https://github.com/Ptg2001/ExamDesk/assets/83298817/040c844d-65f0-480e-a9b8-f5883e0c874b" width="49%"/> 
+    <img src="https://github.com/Ptg2001/ExamDesk/assets/83298817/f3eb0f57-e071-43be-8b90-da606dd883a2" width="49%" />
   </p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p float="left">
-  <img src="https://github.com/navadkarsujit/Online-Exam-System-Java/assets/144350681/ba1118aa-12d8-47ca-9da3-2196e930aefa" width="49%"/> 
-   <img src="https://github.com/navadkarsujit/Online-Exam-System-Java/assets/144350681/1bdcbb36-c9c3-472c-ab50-aad14ca0492d" width="49%"/> 
+  <img src="https://github.com/Ptg2001/ExamDesk/assets/83298817/7727cfae-edd7-4f92-aab7-913bee4fe1b7" width="49%"/> 
+   <img src="https://github.com/Ptg2001/ExamDesk/assets/83298817/f60b4d03-4b83-4bc1-a9ca-bcf7768035d4" width="49%"/> 
   </p>
 
 </kbd>
@@ -46,13 +46,13 @@ This project presents a full-stack online exam platform featuring an admin porta
 <kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p float="left">
-    <img src="https://github.com/navadkarsujit/Online-Exam-System-Java/assets/144350681/d4f620e6-557b-480f-99f7-015f299168ca" width="49%" />
-    <img src="https://github.com/navadkarsujit/Online-Exam-System-Java/assets/144350681/b3be7719-7c64-4a0c-8ebd-48d8bcbc2e1d" width="49%"/> 
+    <img src="https://github.com/Ptg2001/ExamDesk/assets/83298817/3f3cd236-30f7-4400-abed-16e92147887b" width="49%" />
+    <img src="https://github.com/Ptg2001/ExamDesk/assets/83298817/3296c3a1-e84e-41a2-93bc-87b0778d5409" width="49%"/> 
     
   </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p float="left">
-    <img src="https://github.com/navadkarsujit/Online-Exam-System-Java/assets/144350681/d517395d-8691-4e1a-b61e-334bc8a35e17" width="49%" />
+    <img src="https://github.com/Ptg2001/ExamDesk/assets/83298817/52ce96d8-b421-4dcb-893c-52e0aedcf426" width="49%" />
  </p>
 </kbd>
